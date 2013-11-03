@@ -2,13 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Speed-Runner"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Drop"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry exported="true" kind="lib" path="/Speed-Runner/libs/gdx.jar" sourcepath="/Speed-Runner/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="/home/chris/2.7 TB HD/eclipse_projects/drop/libs/gdx.jar" sourcepath="/Speed-Runner/libs/gdx-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry exported="true" kind="lib" path="/Speed-Runner/libs/gdx-freetype.jar"/>
-	<classpathentry kind="lib" path="/Speed-Runner/libs/gdx-freetype-natives.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/chris/2.7 TB HD/eclipse_projects/drop/libs/gdx-freetype.jar"/>
+	<classpathentry kind="lib" path="/home/chris/2.7 TB HD/eclipse_projects/drop/libs/gdx-freetype-natives.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

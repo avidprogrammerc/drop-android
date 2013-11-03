@@ -1,12 +1,12 @@
-package com.conley.speedrunner;
+package com.conley.drop;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.conley.speedrunner.SpeedRider;
+import com.conley.drop.Drop;
 
-public class MainActivity extends AndroidApplication {
+public class DropAndroidLauncher extends AndroidApplication {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -16,6 +16,6 @@ public class MainActivity extends AndroidApplication {
         cfg.useAccelerometer=false;
         cfg.useCompass=false;
         
-        initialize(new SpeedRider(), cfg);
+        initialize(new Drop(), cfg);
     }
 }
